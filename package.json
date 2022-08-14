@@ -1,0 +1,25 @@
+{
+  "name": "hindosthan.org",
+  "version": "1.0.0",
+  "description": "trust of hindosthan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TOHind/hindosthan.org.git"
+  },
+  "keywords": [
+    "ai",
+    "trust",
+    "hindosthan"
+  ],
+  "author": "hemant kumar dixit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TOHind/hindosthan.org/issues"
+  },
+  "homepage": "https://github.com/TOHind/hindosthan.org#readme"
+}
